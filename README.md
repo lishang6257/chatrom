@@ -1,7 +1,6 @@
 # chatrom
 https://blog.csdn.net/lishang6257/article/details/79711361
 
-
 [toc]
 
 ##前言
@@ -42,13 +41,15 @@ $\qquad$这学期正好有门TCP/IP 编程，乘机写了个dos下的聊天室�
 ###退出（左边为sender退出，右边为receiver退出）
 ![这里写图片描述](https://img-blog.csdn.net/20180327123506762?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpc2hhbmc2MjU3/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
+##编译环境
+IDE : CodeBlocks 16.01
+语言：C++
+运行须知：需要添加链接库，才可以运行
+![这里写图片描述](https://img-blog.csdn.net/20180327125457992?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpc2hhbmc2MjU3/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 ##后记
-$\qquad$现附上代码，有空在补上内部实现的亮点与不足，有什么问题，可以随时私信。有空可以follow下博主的[github](https://github.com/lishang6257)（丑不要碧莲，有打广告）.最后附上下载链接，就放在csdn,免费下载，喜欢点赞就行。
+$\qquad$现附上代码，有空在补上内部实现的亮点与不足，有什么问题，可以随时私信。有空可以follow下博主的[github](https://github.com/lishang6257/chatrom)（丑不要碧莲，有打广告）.最后附上下载链接,喜欢点赞就行。（csdn必须要c币，github免费下载）
+[csdn下载入口](https://download.csdn.net/download/lishang6257/10310935)
 
-
-
-
-
-
+[github下载入口](https://github.com/lishang6257/chatrom)
 
