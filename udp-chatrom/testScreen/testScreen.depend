@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1521483588 source:f:\codeblocks\testscreen\main.cpp
+	<stdio.h>
+	<WINSOCK2.H>
+	<iostream>
+	<string>
+	<ctime>
+
+1522118519 source:c:\users\lily\desktop\udp-3\testscreen\main.cpp
+	<stdio.h>
+	<WINSOCK2.H>
+	<iostream>
+	<string>
+	<ctime>
+
